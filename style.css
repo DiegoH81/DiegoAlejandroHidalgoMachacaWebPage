@@ -1,0 +1,83 @@
+body
+{
+    font-family: "Tahoma", Monaco, sans-serif;
+    font-size: 15px;
+    background-color: white;
+    margin: 0px;
+}
+header
+{
+    background-color: #003049;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    padding: 6px;
+}
+footer
+{
+    text-align: center;
+    font-weight: bolder;
+}
+h1
+{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+h2
+{
+    font-size: 25px;
+    font-weight: 600;
+
+}
+h3
+{
+    font-size: 18x;
+    font-weight: 500;
+}
+h4
+{
+    font-size: 15px;
+    font-weight: 30;
+}
+#Container
+{
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: white;
+
+}
+#InformacionPersonal
+{
+    border-bottom: 2px solid black;
+}
+#Educacion
+{
+    border-bottom: 2px solid black;
+}
+#Hobbies
+{
+    border-bottom: 2px solid black;
+}
+#Cursos
+{
+    border-bottom: 2px solid black;
+}
+#Proyectos
+{
+    border-bottom: 2px solid black;
+}
+#Contacto
+{
+    border-bottom: 2px solid black;
+}
+#Colaboradores
+{
+    border-bottom: 2px solid black;
+}
+
+.alinearDerecha
+{
+    float: right;
+}
